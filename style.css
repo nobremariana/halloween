@@ -138,8 +138,7 @@ body {
     line-height: 30px;
     letter-spacing: 0.03em;
     color: #f8f8fd;
-    justify-content: space-around;
-    align-items: center;
+    margin-left: 2px;
     
   }
 
